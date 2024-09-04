@@ -41,6 +41,8 @@
 
 ###
 <img src="https://github.com/usuario/repositorio/blob/main/pasta/rapid-punch-redimensionado.gif" alt="Rapid Punch" width="300"/>
+<img src="https://github.com/usuario/repositorio/blob/main/pasta/rapid-punch-redimensionado.gif" alt="Rapid Punch" style="height: 200;">
+
 
 
 
