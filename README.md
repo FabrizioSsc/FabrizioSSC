@@ -23,9 +23,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabrizioSsc&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p> 
+
 <div>
 <a href="https://github.com/FabrizioSsc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioSsc&layout=compact&langs_count=7&theme=radical"/>
