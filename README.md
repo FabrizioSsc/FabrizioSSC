@@ -3,7 +3,7 @@
 
 
 ### 
-<img align="right" height="150" src="(https://media1.tenor.com/m/3zLJ0Qe2UDUAAAAC/satoru-gojo-jujutsu-kaisen.gif)"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/3zLJ0Qe2UDUAAAAC/satoru-gojo-jujutsu-kaisen.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
