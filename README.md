@@ -36,8 +36,10 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=FabrizioSsc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  
 </div>
- <img src=" https://pin.it/1MZpAht9p" height="300" />  
+
 
 
 ###
+![Rapid Punch Twinzero GIF - Rapid Punch Twinzero Saitama - Discover   Share GIFs](https://github.com/user-attachments/assets/d3089c03-3087-42f7-bb00-bd6c3c357312)
+
 
