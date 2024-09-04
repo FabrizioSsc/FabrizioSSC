@@ -2,9 +2,10 @@
 
 
 
-   ![Mv](https://github.com/user-attachments/assets/f823205d-024a-487a-8edd-5b3fad6fd51d)
+<img src="https://github.com/user-attachments/assets/f823205d-024a-487a-8edd-5b3fad6fd51d" height="300" />
 
-<img align="right" height="150" src=" github.com/user-attachments/assets/f823205d-024a-487a-8edd-5b3fad6fd51d"  />
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
