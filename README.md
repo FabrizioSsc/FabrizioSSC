@@ -24,12 +24,6 @@
 
 
 
-
-###
-
-
-
-
 <div>
 <a href="https://github.com/FabrizioSsc">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioSsc&layout=compact&langs_count=7&theme=dracula"/>
@@ -39,9 +33,8 @@
 
 
 
-###
-<img src="https://github.com/usuario/repositorio/blob/main/pasta/rapid-punch-redimensionado.gif" alt="Rapid Punch" width="300"/>
-<img src="https://github.com/usuario/repositorio/blob/main/pasta/rapid-punch-redimensionado.gif" alt="Rapid Punch" style="height: 200;">
+
+
 
 
 
