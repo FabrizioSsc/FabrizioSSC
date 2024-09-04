@@ -36,7 +36,7 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=FabrizioSsc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  
 </div>
- <img src="https://pin.it/DcsjIPmJ1" height="300" />
+ <img src=" https://pin.it/1MZpAht9p" height="300" />  
 
 
 ###
