@@ -40,6 +40,9 @@
 
 
 ###
-![Rapid Punch Twinzero GIF - Rapid Punch Twinzero Saitama - Discover   Share GIFs](https://github.com/user-attachments/assets/d3089c03-3087-42f7-bb00-bd6c3c357312)
+<img src="https://github.com/usuario/repositorio/blob/main/pasta/rapid-punch-redimensionado.gif" alt="Rapid Punch" width="300"/>
+
+
+
 
 
