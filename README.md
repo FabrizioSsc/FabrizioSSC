@@ -35,7 +35,7 @@
 
 
 
- <img src="https://github.com/user-attachments/assets/e8ddd55c-a729-41c2-89f4-67a9a6e6650a" height="30" alt="html5 logo"  /> https://media.gifdb.com/dragon-ball-son-goku-ultra-instinct-godly-punches-80zu9wiczd7zmgld.gif
+ <img src="https://github.com/user-attachments/assets/e8ddd55c-a729-41c2-89f4-67a9a6e6650a" height="30" alt="html5 logo"  /> 
 
 <img src="https://media.gifdb.com/dragon-ball-son-goku-ultra-instinct-godly-punches-80zu9wiczd7zmgld.gif" height="30" alt="html5 logo"  />
 
